@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhasish-Negel&theme=moonlight" />
+
+<div>
+
+****
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Subhasish-Negel&theme=violet-punch)](https://git.io/streak-stats)
