@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ****
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Subhasish-Negel&theme=violet-punch)](https://git.io/streak-stats)
+
+****
+
+<a href="https://app.daily.dev/suvo_47"><img src="https://api.daily.dev/devcards/06dac40c698f403caf4b6319cc2e7e21.png?r=fdk" width="400" alt="Subhasish Negel's Dev Card"/></a>
